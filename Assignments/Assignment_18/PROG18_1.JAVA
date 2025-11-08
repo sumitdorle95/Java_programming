@@ -43,7 +43,9 @@ class PROG1
         logic lobj = new logic();
         lobj.checkprime(iValue1);
         
-        
+         sobj=null;
+        lobj =null;
+        System.gc();
        
        
        
