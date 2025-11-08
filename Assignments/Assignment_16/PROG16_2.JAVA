@@ -42,7 +42,9 @@ class PROG2
                     System.out.println("the number is odd");
                 }
         }
-       
+       sobj=null;
+       lobj=null;
+       System.gc();
 
 
     }

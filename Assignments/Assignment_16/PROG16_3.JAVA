@@ -27,6 +27,10 @@ class PROG3
         logic lobj = new logic();
         bRet=lobj.factorial(iValue);
         System.out.println("the factorial is "+ bRet);
+
+        sobj=null;
+        lobj =null;
+        System.gc();
        
        
 

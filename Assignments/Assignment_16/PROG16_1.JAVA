@@ -26,6 +26,10 @@ class PROG1
         iRet=lobj.calculatesum(iValue);
        System.out.println("The sum of first " + iValue + " numbers is " + iRet);
 
+       sobj=null;
+       lobj=null;
+       System.gc();
+
 
     }
 }

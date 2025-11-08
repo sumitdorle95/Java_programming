@@ -32,7 +32,9 @@ class PROG4
         iRet=lobj.reversenum(iValue);
         System.out.println(" the reverse is "+ iRet);
        
-       
+        sobj=null;
+        lobj =null;
+        System.gc();
 
 
     }

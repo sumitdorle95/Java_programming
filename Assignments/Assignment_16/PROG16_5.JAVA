@@ -32,7 +32,9 @@ class PROG5
         iRet=lobj.digitcount(iValue);
         System.out.println(" the no of digits are "+ iRet);
        
-       
+        sobj=null;
+        lobj =null;
+        System.gc();
 
 
     }
