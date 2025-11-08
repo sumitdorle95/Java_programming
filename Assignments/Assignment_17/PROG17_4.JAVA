@@ -41,7 +41,9 @@ class PROG4
         lobj.findmin(iValue1,iValue2,iValue3);
         
         
-       
+        sobj=null;
+        lobj =null;
+        System.gc();
        
        
 

@@ -32,7 +32,9 @@ class PROG1
         iRet=lobj.sumnum(iValue);
         System.out.println(" the sum is "+ iRet);
        
-       
+        sobj=null;
+        lobj =null;
+        System.gc();
 
 
     }

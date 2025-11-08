@@ -44,7 +44,9 @@ class PROG3
             System.out.println(iValue2 +" is greater than " + iValue1 );
         }
        
-       
+        sobj=null;
+        lobj =null;
+        System.gc();
        
 
 

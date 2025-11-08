@@ -31,7 +31,9 @@ class PROG5
         lobj.table(iValue1);
         
         
-       
+        sobj=null;
+        lobj =null;
+        System.gc();
        
        
 

@@ -51,7 +51,9 @@ class PROG2
             System.out.println(iValue +" is not a palindrome " );
         }
        
-       
+        sobj=null;
+        lobj =null;
+        System.gc();
        
 
 
