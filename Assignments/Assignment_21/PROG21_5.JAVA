@@ -24,7 +24,7 @@ class logic
     }
 }
 
-class PROG5
+class PROG21_5
 {
     public static void main(String A[])
     {
