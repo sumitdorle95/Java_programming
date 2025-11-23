@@ -25,7 +25,7 @@ class logic
 
 }// end of logic class
 
-class PROG3
+class PROG20_3
 {
     public static void main(String A[])
     {
