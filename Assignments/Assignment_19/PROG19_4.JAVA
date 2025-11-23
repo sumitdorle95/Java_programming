@@ -16,7 +16,7 @@ class logic
     }
 }
 
-class PROG4
+class PROG19_4
 {
     public static void main(String A[])
     {

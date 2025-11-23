@@ -32,7 +32,7 @@ class logic
 }
 
 
-class PROG2
+class PROG19_2
 {
     public static void main(String A[])
     {
