@@ -32,7 +32,7 @@ class logic
     }
 }
 
-class PROG4
+class PROG18_4
 {
     public static void main(String A[])
     {
