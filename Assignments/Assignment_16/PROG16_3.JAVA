@@ -15,7 +15,7 @@ class logic
     }
 }
 
-class PROG3
+class PROG16_3
 {
     public static void main(String A[])
     {
