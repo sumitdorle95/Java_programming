@@ -30,7 +30,7 @@ class logic
     }
 }
 
-class PROG2
+class PROG17_2
 {
     public static void main(String A[])
     {
